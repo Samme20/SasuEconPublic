@@ -1,4 +1,4 @@
-# 19sausEcon bot
+# 19sasuEcon bot
 + Feature rich economy bot
 + Gambling features, roulette, slots, and gunfight
 + Music bot, can play and queue music in voice channel
