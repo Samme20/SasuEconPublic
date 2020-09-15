@@ -1,0 +1,11 @@
+{
+  "prefix": "!",
+  "red": "#b70000",
+  "orange": "#ff6a00",
+  "green": "#00ff26",
+  "purple": "#d604cf",
+  "token": "<your discord API token>",
+  "google_api_key": "<your google api key>",
+  "MAX_PLAYLIST_SIZE": 10,
+  "PRUNING": false
+}
